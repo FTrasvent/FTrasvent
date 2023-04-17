@@ -21,11 +21,11 @@
 🤓 My goal is to know the fundamentals of these topics and specialize in Data Science.
 
 ---
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=dark)](https://github.com/ftrasvent/github-readme-stats)
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=dark)](https://github.com/ftrasvent/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Fernando's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ftrasvent&theme=dark)](https://github.com/ftrasvent/github-readme-streak-stats)
+[![Fernando's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-streak-stats)
 
 ---
 <!--
