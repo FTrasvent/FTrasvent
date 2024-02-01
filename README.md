@@ -18,7 +18,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
 
-🤓 My goal is to know the fundamentals of these topics and specialize in Web3.
+🤓 My goal is to know the fundamentals of these topics and specialize in Web3!!!
 
 ---
 
